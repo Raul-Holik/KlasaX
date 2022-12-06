@@ -1,0 +1,8 @@
+C:\Users\Osoba\Documents\Skola\KlasaX\KlasaX\bin\Debug\KlasaX.exe.config
+C:\Users\Osoba\Documents\Skola\KlasaX\KlasaX\bin\Debug\KlasaX.exe
+C:\Users\Osoba\Documents\Skola\KlasaX\KlasaX\bin\Debug\KlasaX.pdb
+C:\Users\Osoba\Documents\Skola\KlasaX\KlasaX\obj\Debug\KlasaX.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\KlasaX\KlasaX\obj\Debug\KlasaX.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\KlasaX\KlasaX\obj\Debug\KlasaX.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\KlasaX\KlasaX\obj\Debug\KlasaX.exe
+C:\Users\Osoba\Documents\Skola\KlasaX\KlasaX\obj\Debug\KlasaX.pdb
